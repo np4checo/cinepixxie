@@ -41,11 +41,11 @@
 
 }
 .movies-container div svg {
-    color: #f7d354;
+    color: #15618e;
 }
 .movies-container div a {
-    background-color: #f7d354;
-    border: 2px solid #f7d354;
+    background-color: #15618e;
+    border: 2px solid #15618e;
     border-radius: 4px;
     color: black;
     padding: 1rem 0.5rem;
@@ -57,5 +57,5 @@
 }
 .movies-container div a:hover {
     background-color: transparent;
-    color: #f7d354;
+    color: #15618e;
 }

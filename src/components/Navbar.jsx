@@ -21,7 +21,7 @@ function Navbar() {
   return (
     <div>
         <nav id="navbar"><h2>
-          <Link to='/' ><BiCameraMovie />Cine Pixxie</Link>
+          <Link to='/' ><BiCameraMovie />Movies</Link>
           </h2>
           <form onSubmit={handleSubmit}>
             <input 
